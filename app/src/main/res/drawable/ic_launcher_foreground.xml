@@ -1,0 +1,63 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="22"
+        android:translateY="20">
+        <!-- Main Letter Document Sheet -->
+        <path
+            android:pathData="M12,4 L44,4 L56,16 L56,64 C56,66.2 54.2,68 52,68 L12,68 C9.8,68 8,66.2 8,64 L8,8 C8,5.8 9.8,4 12,4 Z"
+            android:fillColor="#F8FAFC" />
+        <!-- Folded Corner -->
+        <path
+            android:pathData="M44,4 L44,16 L56,16 Z"
+            android:fillColor="#CBD5E1" />
+        <!-- Document Header Line (Navy) -->
+        <path
+            android:pathData="M16,14 L36,14"
+            android:strokeWidth="3"
+            android:strokeColor="#1E3A8A"
+            android:strokeLineCap="round" />
+        <!-- Text Lines (Official Paragraphs) -->
+        <path
+            android:pathData="M16,24 L48,24"
+            android:strokeWidth="2.2"
+            android:strokeColor="#64748B"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M16,31 L48,31"
+            android:strokeWidth="2.2"
+            android:strokeColor="#64748B"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M16,38 L42,38"
+            android:strokeWidth="2.2"
+            android:strokeColor="#64748B"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M16,45 L46,45"
+            android:strokeWidth="2.2"
+            android:strokeColor="#64748B"
+            android:strokeLineCap="round" />
+        <!-- Official Seal / Gold Stamp -->
+        <path
+            android:pathData="M23,57 m -5,0 a 5,5 0 1,0 10,0 a 5,5 0 1,0 -10,0"
+            android:fillColor="#F59E0B" />
+        <!-- Signature Line -->
+        <path
+            android:pathData="M32,58 L48,58"
+            android:strokeWidth="2"
+            android:strokeColor="#3B82F6"
+            android:strokeLineCap="round" />
+        <!-- Luxury AI Feather / Fountain Pen Nib on the right -->
+        <path
+            android:pathData="M48,38 L60,26 C62,24 65,24 67,26 C69,28 69,31 67,33 L55,45 L48,46 L48,38 Z"
+            android:fillColor="#38BDF8" />
+        <path
+            android:pathData="M48,46 L51,43"
+            android:strokeWidth="1.5"
+            android:strokeColor="#0F172A" />
+    </group>
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Office Letter AI",
+  "description": "Professional AI office letter writing and reply assistant with document analysis, OCR, fact checking, and multi-format export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
